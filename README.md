@@ -1,3 +1,5 @@
+Several APIs have been added and modified to separate dependencies between existing files and to only configure them as header files.
+
 ### USAGE
 
 ```cpp
