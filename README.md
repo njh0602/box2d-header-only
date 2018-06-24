@@ -8,7 +8,7 @@ int main()
 {
 	b2WorldImpl world; // changed (b2World -> b2WorldImpl)
     	// ...
-	// same api (wow!)
+	// same api
     	// ...
 }
 ```
