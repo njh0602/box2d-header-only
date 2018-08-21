@@ -13,4 +13,4 @@ int main()
 }
 ```
 
-It is not very meaningful, but it was made just to spend a boring weekend. I tested it on MacOS only. It will probably run on Windows, but I plan to test it soon.
+It is not very meaningful, but it was made just to spend a boring weekend. I tested on MacOS, Windows, Linux.
